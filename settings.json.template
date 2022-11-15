@@ -10,10 +10,10 @@
   "address": "127.0.0.1:3001",
 
   // coin name
-  "coin": "Darkcoin",
+  "coin": "Blackcoin",
 
   // coin symbol
-  "symbol": "DRK",
+  "symbol": "BLK",
 
   // logo
   "logo": "/images/logo.png",
@@ -54,7 +54,7 @@
   "wallet": {
     "host": "localhost",
     "port": 9332,
-    "username": "darkcoinrpc",
+    "username": "blackcoinrpc",
     "password": "123gfjk3R3pCCVjHtbRde2s5kzdf233sa"
   },
 
@@ -106,7 +106,7 @@
   //included markets: altmarkets, fides, bittrex, poloniex, yobit, bleutrade
   //default market is loaded by default and determines last price in header
   "markets": {
-    "coin": "JBS",
+    "coin": "BLK",
     "exchange": "BTC",
     "enabled": ["bittrex"],
     "ccex_key" : "Get-Your-Own-Key",
