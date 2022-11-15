@@ -16,12 +16,12 @@
   "symbol": "BLK",
 
   // logo
-  "logo": "/images/logo.png",
+  "logo": "/images/logo-tblk.png",
   // Optional header logo - change false to e.g. "/images/headerlogo.png"
   "headerlogo": false,
 
   // favicon
-  "favicon": "public/favicon.ico",
+  "favicon": "public/favicon-tblk.ico",
 
   // Uses bootswatch themes (http://bootswatch.com/)
   // Valid options:
